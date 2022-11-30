@@ -1,0 +1,15 @@
+.myfont{
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+.mysubfont{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(17, 71, 17) !important;
+}
+.myimg{
+    width: 50% !important;
+}
+.myfooter{
+    font-style: italic !important;
+
+}
